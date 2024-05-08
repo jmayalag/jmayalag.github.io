@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jordanbuilds.io/sitemap-index.xml
